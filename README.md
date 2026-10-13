@@ -3,3 +3,4 @@
 **Created by:** behlul mat 
 ## Study Tips
 - Form study groups with classmates.
+- Review your notes after every lecture.
